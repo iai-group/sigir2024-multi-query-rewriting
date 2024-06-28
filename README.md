@@ -1,1 +1,2 @@
-# sigir2024-multi-query-rewriting
+# A Surprisingly Simple yet Effective Multi-Query Rewriting Method for
+  Conversational Passage Retrieval
