@@ -14,13 +14,13 @@ We propose the use of a neural query rewriter to generate multiple queries and s
 
 This repository is structured as follows:
 
-  - `outputs/`: Contains the generated rewrites for the compared models in the experiments.
+  * `outputs/`: Contains the generated rewrites for the compared models in the experiments.
 
 The models are taken from the following repositories:
 
-  - T5QR: [Huggingface](https://huggingface.co/castorini/t5-base-canard)
-  - ConvGQR: [GitHub](https://github.com/fengranMark/ConvGQR)
-  - InfoCQR: [GitHub](https://github.com/smartyfh/InfoCQR)
+  * [T5QR](https://huggingface.co/castorini/t5-base-canard): A pretraind T5 model fine-tuned on the Canard dataset.
+  * [ConvGQR](https://github.com/fengranMark/ConvGQR): Repository for training the ConvGQR model.
+  * [InfoCQR](https://github.com/smartyfh/InfoCQR): Repository for training the InfoCQR model.
 
 ## Citation
 
