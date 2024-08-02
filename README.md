@@ -14,7 +14,7 @@ We propose the use of a neural query rewriter to generate multiple queries and s
 
 This repository is structured as follows:
 
-  - `data/`: TBD
+  - `outputs/`: Contains the generated rewrites for the compared models in the experiments.
 
 ## Citation
 
