@@ -16,6 +16,12 @@ This repository is structured as follows:
 
   - `outputs/`: Contains the generated rewrites for the compared models in the experiments.
 
+The models are taken from the following repositories:
+
+  - T5QR: [Huggingface](https://huggingface.co/castorini/t5-base-canard)
+  - ConvGQR: [GitHub](https://github.com/fengranMark/ConvGQR)
+  - InfoCQR: [GitHub](https://github.com/smartyfh/InfoCQR)
+
 ## Citation
 
 If you use this code or data, please cite the following paper:
