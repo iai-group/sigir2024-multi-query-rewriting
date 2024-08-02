@@ -22,12 +22,12 @@ If you use this code or data, please cite the following paper:
 
 ```bibtex
 @inproceedings{Kostric:2024:SIGIR,
-author = {Kostric, Ivica and Balog, Krisztian},
-title = {A Surprisingly Simple yet Effective Multi-Query Rewriting Method for Conversational Passage Retrieval},
-year = {2024},
-booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-pages = {2271–2275},
-series = {SIGIR '24}
+  author = {Kostric, Ivica and Balog, Krisztian},
+  title = {A Surprisingly Simple yet Effective Multi-Query Rewriting Method for Conversational Passage Retrieval},
+  year = {2024},
+  booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {2271–2275},
+  series = {SIGIR '24}
 }
 ```
 
